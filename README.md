@@ -10,3 +10,5 @@ Checkout
 =======
 Clone
 >>>>>>> 3d718dc7b6e395889b722bea372d23a91f68472a
+
+Merge data
